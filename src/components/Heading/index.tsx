@@ -1,6 +1,6 @@
 import React from "react";
 
-const sizes = {};
+const sizes: any = {};
 
 export type HeadingProps = Partial<{
   className: string;
